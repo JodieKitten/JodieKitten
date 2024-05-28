@@ -1,4 +1,4 @@
-Hi there, thanks for landing on my page! 👋
+## Hi there, thanks for landing on my page! 👋
 
 I am a self taught junior game developer. I have worked on projects both with and without online courses and continuously work on these in my free time. I work with Unreal Engine in C++ and I am coninuously expanding my knowledge through various online courses.
 
@@ -18,7 +18,7 @@ I am a self taught junior game developer. I have worked on projects both with an
   - Aura
     A top down RPG using Unreal Engine's Gameplay Ability System, working with attributes, ability systems and gameplay tags. This is a very involved course with lots to learn, but I have enjoyed every lecture and hurdle I have encounterd!
 
-# Connect with me!
+## Connect with me!
 If you have any questions about me or my projects, or would simply like to chat, please reach out!
  - Github: JodieKitten
  - LinkedIn: https://www.linkedin.com/in/jodie-herrington-53171b190
