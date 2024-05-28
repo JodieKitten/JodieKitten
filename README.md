@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi there, thanks for landing on my page! 👋
+## I am a self taught junior game developer. I have worked on projects both inside and out of online courses and continuously work on these in my free time. I work with Unreal Engine in C++ and I am coninuously expanding my knowledge through various online courses.
 
+-My Projects
 <!--
 **JodieKitten/JodieKitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
