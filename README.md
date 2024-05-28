@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=JodieKitten&color=ff69b4)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JodieKitten.visitor-badge)
 
 ## Hi there, thanks for landing on my page! 👋
 
