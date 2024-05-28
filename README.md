@@ -20,17 +20,18 @@ I am a self taught junior game developer. I have worked on projects both with an
   - Aura
     A top down RPG using Unreal Engine's Gameplay Ability System, working with attributes, ability systems and gameplay tags. This is a very involved course with lots to learn, but I have enjoyed every lecture and hurdle I have encounterd!
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,unreal,visualstudio,linkedin" />
+  </a>
+</p>
+
 ## Connect with me!
 If you have any questions about me or my projects, or would simply like to chat, please reach out!
  - Github: JodieKitten
  - LinkedIn: https://www.linkedin.com/in/jodie-herrington-53171b190
  - Carrd Portfolio: https://jodieherrington.carrd.co
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,unreal,visualstudio,linkedin" />
-  </a>
-</p>
  <!--
 **JodieKitten/JodieKitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
