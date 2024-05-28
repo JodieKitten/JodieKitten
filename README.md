@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=JodieKitten&color=ff69b4)
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JodieKitten)
 
 ## Hi there, thanks for landing on my page! 👋
 
@@ -26,6 +25,12 @@ If you have any questions about me or my projects, or would simply like to chat,
  - Github: JodieKitten
  - LinkedIn: https://www.linkedin.com/in/jodie-herrington-53171b190
  - Carrd Portfolio: https://jodieherrington.carrd.co
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,unreal,visualstudio,linkedin" />
+  </a>
+</p>
  <!--
 **JodieKitten/JodieKitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
