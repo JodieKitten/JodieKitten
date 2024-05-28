@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=JodieKitten)
+![](https://komarev.com/ghpvc/?username=JodieKitten&color=ff69b4)
 
 ## Hi there, thanks for landing on my page! 👋
 
