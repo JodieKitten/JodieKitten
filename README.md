@@ -2,7 +2,7 @@
 
 ## Hi there, thanks for landing on my page! 👋
 
-I am a self taught junior game developer. I have worked on projects both with and without online courses and continuously work on these in my free time. I work with Unreal Engine in C++ and I am coninuously expanding my knowledge through various online courses.
+I am a self taught junior game developer. I have worked on projects both with and without online courses and continuously work on these in my free time. I work with Unreal Engine in C++ and I am always expanding my knowledge through various online courses.
 
 ## My Projects
   - Run Sprite, Run! (Platformer):
