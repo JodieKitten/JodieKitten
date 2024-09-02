@@ -5,7 +5,7 @@
 I am a self taught junior game developer. I have worked on projects both with and without online courses and continuously work on these in my free time. I work with Unreal Engine in C++ and I am always expanding my knowledge through various online courses.
 
 ## My Projects
-  - Run Sprite, Run! (Platformer):
+  - Platformer:
     
     This is the first project I built on my own, it is a 2D beat-your-time platformer built with Unreal Engine's Blueprint system.
     I took a lot of enjoyment in making this game and watching friends and family beat it. I plan to add more intricate levels and make it even tougher to beat!
