@@ -25,7 +25,12 @@ I am a self taught junior game developer. I have worked on projects both with an
 
  - Aura:
    
-    A top down RPG using Unreal Engine's Gameplay Ability System, working with attributes, ability systems and gameplay tags. This is a very involved course with lots to learn, but I have enjoyed every lecture and hurdle I have encounterd!
+    A top down RPG using Unreal Engine's Gameplay Ability System, working with attributes, ability systems and gameplay tags. This is a very involved course with lots to learn, but I have enjoyed every lecture and hurdle I have encountered!
+
+ - Run Sprite, Run!:
+   
+    I decided to recreate my Platformer game, using C++ and writing all my own code, based on my logic from my Unreal Engine Blueprints. I'm very excited to be working on my very own C++ project and see exactly what I am capable of!
+
 
 <p align="center">
   <a href="https://skillicons.dev">
